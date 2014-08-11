@@ -442,6 +442,7 @@ body.menu-active div#content .menu-trigger { top: 340px; }
 	padding:20px;
 	border-color:#fff;
 	margin: 30px 0 0 0;
+	-webkit-appearance: none;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
@@ -457,6 +458,7 @@ body.menu-active div#content .menu-trigger { top: 340px; }
 	padding:20px;
 	border-color:#bf1f2e;
 	margin: 30px 0 10px 0;
+	-webkit-appearance: none;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
